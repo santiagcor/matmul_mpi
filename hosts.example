@@ -1,0 +1,12 @@
+# Archivo de hosts del cluster MPI
+# Reemplazar con las IPs/hostnames reales de los nodos
+# Formato: <hostname/IP> slots=<núcleos disponibles>
+
+nodo1 slots=4    # nodo maestro
+nodo2 slots=4    # nodo de cómputo 1
+nodo3 slots=4    # nodo de cómputo 2
+
+# Ejemplo con IPs:
+# 192.168.1.10 slots=4
+# 192.168.1.11 slots=4
+# 192.168.1.12 slots=4
