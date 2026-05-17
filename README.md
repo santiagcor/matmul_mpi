@@ -198,7 +198,7 @@ N=500  P=12  tiempo_max=19.12 ms  tiempo_avg=16.86 ms  GFLOP/s=13.07
 
 ## Autor
 
-Santiago Castaño Cortés
+Santiago Castrillon ortiz
 Caso de Estudio 3 — Computación de Alto Rendimiento — Mayo 2026
 
 ---
