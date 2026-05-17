@@ -2,7 +2,7 @@
 
 **Computación de Alto Rendimiento — Implementación y Análisis de Desempeño sobre Cluster Computacional**
 
-**Autor:** Santiago Castaño Cortés
+**Autor:** Santiago castrillon ortiz
 **Fecha:** Mayo 2026
 **Repositorio:** https://github.com/santiagcor/matmul_mpi
 
